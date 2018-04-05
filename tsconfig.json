@@ -14,15 +14,7 @@
     "lib": [
       "es2017",
       "dom"
-    ],
-    
-      
-    
-    
-  },
-//  "angularCompilerOptions":{
-//     "skipTemplateCodegen": true,
-//     "strictMetadataEmit": true
-//   } 
+    ]
+  }
   
 }
